@@ -1,9 +1,5 @@
-<p align="center">
-    <img src=https://img.qimuu.icu/typory/logo.gif width=188/>
-</p> 
-
-<h1 align="center">Auto Clock 自动打卡</h1>
-<p align="center"><strong>自动打卡助手</strong></p>
+<h1 align="center">Catka自动打卡</h1>
+<p align="center"><strong>Catka自动打卡</strong></p>
 
 <div align="center">
     <img alt="Maven" src="https://raster.shields.io/badge/Maven-3.8.1-red.svg"/>
